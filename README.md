@@ -1,4 +1,3 @@
 # DashboardR
 
-Dashboard respondive para divina misericordia
-https://bryan5243.github.io/DashboardR/
+Dashboard respondive para divina misericordia en php
